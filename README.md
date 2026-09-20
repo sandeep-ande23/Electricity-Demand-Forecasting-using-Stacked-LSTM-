@@ -4,7 +4,7 @@ A time-series machine learning project that forecasts electricity load using his
 Project Overview
 This project builds an LSTM-based forecasting pipeline for electricity demand. The model learns patterns from a rolling 24-hour historical window and predicts the next load value.
 
-Core idea
+Core idea:
 Historical Load + Temperature + Humidity
                  ↓
         Data preprocessing
